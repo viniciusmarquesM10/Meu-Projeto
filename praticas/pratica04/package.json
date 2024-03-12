@@ -1,10 +1,9 @@
 {
-  "name": "aula04",
+  "name": "pratica04",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "pratica04.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
     "test": "jest --watchAll"
   },
   "keywords": [],
@@ -15,8 +14,6 @@
   },
   "devDependencies": {
     "jest": "^29.7.0",
-    "nodemon": "^3.1.0",
     "supertest": "^6.3.4"
-  },
-  "description": ""
+  }
 }
